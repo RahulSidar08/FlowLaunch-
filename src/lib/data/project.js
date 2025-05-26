@@ -1,6 +1,4 @@
-import JobHive from "../../../public/JobHive.png";
-import mernChat from "../../../public/mernChat.png";
-import recipeVault from "../../../public/recipeVault.png";
+
 
 
 export const projects = [
@@ -9,7 +7,7 @@ export const projects = [
     title: "JobHive",
     description: "JobHive is a modern job portal web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It serves as a platform for job seekers and employers, enabling efficient hiring and job search processes.",
     technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS", "Cloudinary"],
-    image: JobHive,
+    image:  "/JobHive.png",
     link: "https://github.com/RahulSidar08/JobHive",
     featured: true,
   },
@@ -18,7 +16,7 @@ export const projects = [
     title: "MERN CHAT",
     description: "MERNChat is a full-stack real-time chat application built using the MERN (MongoDB, Express.js, React.js, Node.js) stack with Socket.io for instant messaging. It allows users to engage in seamless one-on-one conversations with features like authentication, real-time message.",
     technologies: ["React", "Node.js", "MongoDB", "Express", "Cloudinary","Tailwind CSS", "Socket.io"],
-    image: mernChat,
+    image: "/mernChat.png",
     link: "https://github.com/RahulSidar08/MERN-CHAT",
     featured: true,
   },
@@ -27,7 +25,7 @@ export const projects = [
     title: "Recipe Vault",
     description:  "Recipe Vault is a full-stack web application built with the MERN stack (MongoDB, Express.js, React, and Node.js) that allows users to manage, store, and share their favorite recipes.",
     technologies: ["React", "OpenWeather API", "Chart.js", "Geolocation API"],
-    image: recipeVault,
+    image: "/recipeVault.png",
     link: "https://github.com/RahulSidar08/RecipeVault",
     featured: false,
   },
