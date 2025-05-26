@@ -1,0 +1,33 @@
+export const skills = {
+  technical: [
+    { name: "JavaScript",  category: "frontend" },
+    { name: "TypeScript",  category: "frontend" },
+    { name: "C++",  category: "backend" },
+    { name: "Python",  category: "backend" },
+    { name: "React",  category: "frontend" },
+    { name: "Next.js",  category: "frontend" },
+    { name: "HTML/CSS",  category: "frontend" },
+    { name: "Node.js",  category: "backend" },
+    { name: "Express",  category: "backend" },
+    { name: "MongoDB",  category: "backend" },
+    { name: "SQL",  category: "backend" },
+    { name: "GraphQL",  category: "backend" },
+    { name: "Git",  category: "tools" },
+    { name: "Docker",  category: "tools" },
+    { name: "CI/CD",  category: "tools" },
+    { name: "Jest",  category: "testing" },
+  ],
+  soft: [
+    "Team Leadership",
+    "Problem Solving",
+    "Communication",
+    "Project Management",
+    "Time Management",
+    "Critical Thinking",
+    "Adaptability",
+  ],
+  languages: [
+    { name: "English", proficiency: "Intermediate" },
+    { name: "Hindi", proficiency: "Native" },
+  ],
+};
