@@ -7,7 +7,7 @@ export const projects = [
     title: "JobHive",
     description: "JobHive is a modern job portal web application developed using the MERN stack (MongoDB, Express.js, React.js, and Node.js). It serves as a platform for job seekers and employers, enabling efficient hiring and job search processes.",
     technologies: ["React", "Node.js", "MongoDB", "Express", "Tailwind CSS", "Cloudinary"],
-    image:  "/JobHive.png",
+    image:  "/jobHive.png",
     link: "https://github.com/RahulSidar08/JobHive",
     featured: true,
   },

@@ -14,7 +14,7 @@ export default function Profile() {
                 {/* Left side: Image and contact */}
                 <div className="text-center md:text-left">
                     <Image
-                        src="/profile.jpg" // Place your image in public folder as 'profile.jpg'
+                        src="/Profile.jpg" // Place your image in public folder as 'profile.jpg'
                         alt="Profile"
                         width={300}
                         height={300}
